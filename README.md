@@ -1,2 +1,3 @@
 # EnUygunPatikaBootCampWeekAssignments
-EnUygun Patika BootCamp Week Assignments
+
+Bootcamp sürecinde almış olduğum eğtimlerim ile alakalı, haftalık olarak verilen ve bootcampi başarılı şekilde tamamlamam için verilen ödevlerim.
