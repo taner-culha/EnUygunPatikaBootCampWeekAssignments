@@ -1,0 +1,13 @@
+Soru 1: OOP nedir? Ne amaçlı kullanılır?
+Cevap: Gerçek hayatta görülen her şey soyutlaştırılarak koda aktarılmasıdır. Kod tekrarını önlemek için ve sınıf sistemi ile tüm kodlarda değişiklik yapmadan ilgili sınıfta değişiklik yaparak uzun sürmesi de engellenir.
+
+Soru 2: Polymorphism ne amaçlı kullanılır?
+Cevap: Bir işlemin birden fazla yol ile gerçekleştirilebilmesine olanak sağlar. Örnek olarak hayvanların hepsinin ses çıkarması ve bunların hepsinin farklı sesler çıkarması gibi.
+
+Soru 3: Bir metodun private, protected ya da public olması kavramlarını açıklayınız.
+Cevap: Private(Gizli) değişkene, sadece kendi class’ı içinden ulaşılabileceği anlamına gelmektedir.
+       Public (Genel) değişkene, kod içinde herhangi bir yerden erişilebilir durumda olmasını sağlamaktadır.
+       Protected (Korunumlu) değişkene, bulunduğu class  ve ondan türetilen diğer sınıflar içinden erişilebilir olduğunu göstermektedir
+
+Soru 4: (Abstraction) Soyutlama nedir?
+Cevap: Abstract Class'ların temel amacı aynı metot ve özelliklere sahip olacak birden fazla sınıfımız varsa Abstract class ile bunları bir ana sınıfta toplayarak alt sınıflarda daha anlaşılır ve verimli kod yazmayı, kodların belli bir hiyerarşi ve düzen içerisinde olmasını sağlayabiliriz. Örnek olarak Insan adında bir soyut sınıfımız var ve kişileri bu soyut sınıf üzerinden tanımlarız.
